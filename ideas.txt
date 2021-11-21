@@ -1,0 +1,202 @@
+
+
+
+most common words, for use in locating examples in Homer to study (**=over 250, *=over 150)
+  ἄλγος  αἷμα  γόνυ  δάκρυον  ἦτορ  κεφαλή  νέκυς  πούς **  φρήν ** χείρ ***  ὦμος **
+most common forms of these
+  χειρὶ - dat sing
+  χερσὶν - dat pl
+  χεῖρας - acc pl
+  αἷμα - nom sing
+  αἵματι - dat sing
+  γούνατ᾽ - acc pl
+  δάκρυ - nom sing
+  δάκρυα - acc pl
+  ἦτορ - nom sing
+  κεφαλῆς - gen sing
+  νέκυν - acc sing
+  ὄσσε - nom dual
+  πόδας - acc pl
+  ποσσὶ(ν) - dat pl
+  ὦμον - acc sing
+  ὤμων - gen pl
+======================================
+grammar
+Is dative always used when saying whose body part it is?
+  smyth, p. 341, sec 1476, dative of the possessor ...?
+  https://dcc.dickinson.edu/grammar/monro/uses-dative
+
+locative dative
+  smyth p 351, sec 1531
+  is poetic, and happens without preposition
+  θυμῷ, καρδίῃ ... I think this is like saying they feel it in their soul, etc.
+
+==========examples from Iliad=========
+-- φρεσὶ
+Il. 1.55
+τῷ γὰρ ἐπὶ φρεσὶ θῆκε θεὰ λευκώλενος Ἥρη·
+for to his mind the white-armed goddess Hera had suggested it
+
+-- ὄσσε
+Il. 1.104
+ὄσσε δέ οἱ πυρὶ ἐΐκτην
+and his eyes were like fire
+[monro's example, dative pronoun]
+
+-- αἷμα
+1.303
+αἶψά τοι αἷμα κελαινὸν ἐρωήσει περὶ δουρί.
+Immediately your dark blood will flow from my spear. [my trans]
+Τοι is dative: https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Il.+1.303&fromdoc=Perseus%3Atext%3A1999.01.0133
+
+-- χειρὶ
+1.584
+ Ὣς ἄρ᾽ ἔφη καὶ ἀναΐξας δέπας ἀμφικύπελλον
+μητρὶ φίλῃ ἐν χειρὶ τίθει καί μιν προσέειπε
+Thus then he spoke, and rising, he placed the double cup in the hand
+of his dear mother, and addressed her:[...]
+(mother is dative because it's the hand belonging to her; hand is dative because ἐν takes the dative)
+
+-- γουνάσομαι (verb rather than noun)
+1.425
+καὶ τότ ̓ ἔπειτά τοι εἶμι Διὸς ποτὶ χαλκοβατὲς δῶ,
+καί μιν γουνάσομαι καί μιν πείσεσθαι ὀΐω.»
+and then will I go to the brazen-floored
+palace of Zeus, and suppliantly embrace his knees, and I think that
+he will be persuaded."
+
+-- ὤμων
+1.46
+ἔκλαγξαν δ᾽ ἄρ᾽ ὀιστοὶ ἐπ᾽ ὤμων χωομένοιο,
+αὐτοῦ κινηθέντος· ὁ δ᾽ ἤιε νυκτὶ ἐοικώς·
+But as he moved, the shafts rattled forthwith upon the shoulders of him
+enraged; but he went along like unto the night.
+
+-- κεφαλῇ
+1.524
+εἰ δ᾽ ἄγε τοι κεφαλῇ κατανεύσομαι ὄφρα πεποίθῃς·
+I will nod to thee with my head, that thou mayest feel confidence.
+
+-- πόδας
+πόδας ὠκὺς Ἀχιλλεύς
+
+-- χεῖρας
+1.88
+σοὶ κοίλῃς παρὰ νηυσὶ βαρείας χεῖρας ἐποίσει
+shall lay heavy hands upon thee at the hollow ships [future of ἐπιφέρω]
+
+======================================================
+
+many are frequently in dual, e.g., χείρ
+to get first word of each line of the text below
+  grep -Eo '^[^ ]+' file
+some very common ones to use for googling for similar lists
+  αὐχήν γόνυ ἦτορ κεφαλή μηρός
+thesis that covers this,Camagni , manchester, 2017 
+  https://www.research.manchester.ac.uk/portal/files/86865466/FULL_TEXT.PDF
+related vocab
+  ἄλγος - pain, 92 (cf. ὀδύνη)
+  ἰ_άομαι - to heal, 6
+  ἰά_πτω - to hurt, 2
+  ἰ_δίω - to sweat, Od 20.204, not indexed by perseus
+  νόσος - disease, 2
+  ὀδύνη - pain, anguish, 25 (cf. ἄλγος)
+  φαίδιμος - radiant; an epithet applied to body parts
+  χρί_ω - anoint
+  ὠτειλή - wound
+  πεζός - on foot, by land, 32
+specific words
+  δάκτυλος, finger - nonexistent in homer, not listed in cunliffe;
+          woodhouse and reverse-searching in cunliffe give no alternatives; homer
+          has ῥοδοδάκτυλος, which *is* listed in cunliffe
+finger and leg
+  https://latin.stackexchange.com/questions/13297/how-does-homer-say-finger-and-leg
+anus
+  πρωκτός is used by Aristophanes, can't find anything for Homer, no results in reverse search in Cunliffe
+======================================================
+
+ἀγκών, ἀγκῶνος,m3 - elbow, 8
+ἀγοστός, ἀγοστοῦ,m2 - palm, arm, filth, 5 (more commonly παλάμη)
+αἷμα, αἵματος,n3 - blood, 116
+αὐχήν, αὐχένος,m3 - neck, 40
+βραχίων, βραχίονος,m3 - upper arm, shoulder, 6
+γένειον, γενείου,n2 - chin, 7
+γενειάδες, γενειάδων,f3 - cheeks, 1 (sing γενειάς nonexistent in Homer, would mean beard; more common παρήιον)
+γένυς, γένυος,f3 - jaw, 3
+γλουτός,γλουτοῦς,m2 - buttock, plural=butt, 3
+γλῶσσα,γλώσσης,f1 - tongue, 12
+γόνυ, γουνός,n3 - knee, 122 (gen also γούνατος)
+δάκρυ, δάκρυος,n3 - tear, 103 (gen unattested, guessed based on μῶλυος and other forms of δάκρυ, but cf. ἄστυ/ἄστεος; also δάκρυον, δακρύου)
+δάκτυλος - finger, toe (only in H in rhododactylos heos; there is no separate word for thumb)
+δειρή, δειρῆς,f1 - neck, throat, mane, 13
+δέρμα, δέρματος,n3 - skin, hide, 14
+ἔντερα, ἐντέρου,n2 - entrails, 6 (seldom in singular, indexed by perseus under singular ἔντερον)
+ἧπαρ, ἥπατος,n3 - liver, 9
+ἦτορ, ἤτορος,n3 - heart, 93 (gen unattested in homer, only sing nom & acc occur)
+θέμεθλα, θεμέθλων,n2 - eye socket, lower part (of the throat), 4 (plural only)
+θέναρ, θέναρος,n3 - palm, 1 [more commonly παλάμη; outside of Homer, can also mean flat of foot]
+θρίξ,τριχός,f3 - hair, 14
+ἰγνύ_η,ἰγνύας,f1 - back of the knee, hamstring, 1 (indexed by perseus under ἰγνύα)
+ἴουλος,ἰούλου,m2 - whisker, 1 (occurs as plural ἰούλους)
+ἰχώρ - blood of a god, various other fluids, 2
+καρπός,καρποῦ,m2 - wrist, 24
+κεφαλή,κεφαλῆς,f1 - head, 137
+κνήμη,κνήμης,f1 - calf, lower leg, 16
+κόμη,κόμης,f1 - hair, 13
+κοτύλη,κοτύλη,f1 - hip socket, 5
+κρανίον,κρανίου,n2 - skull, 1
+κρόταφος,κροτάφοιο,m2 - temple (of the head), 11
+λαπάρη,λαπάρης,f1 - flank, 7 [indexed by perseus under λαπάρα]
+λαυκανίη,λαυκανίης,f1 - throat, 2 (cf φάρυγξ)
+λόφος,λόφου,m2 - nape of the neck (also a hill), 15
+μαζός,μαζοῖο,m2 - nipple, female breast, one side of a male chest, 17 (indexed by perseus under μαστός)
+μέλος,μέλεος,m2 - limb, 24
+μέτωπον,μετώπου,n2 - forehead, 12
+μῆδεα,μηδέων - genitals, testicles 23 (indexed by perseus as the singular μῆδος; is this only male?)
+μηρός,μηροῦ,m2 - thigh, 36
+μυελός,μυελοῦ,m2 - marrow, 4
+μυ_ών,μυ_ῶνος,m3 - muscle, 2 (unattested gen given by Cunliffe, makes sense compared to αἰών)
+νέκυς,νέκυος,m3 - dead body, 78 (cf σῶμα)
+νεῦρον,νεύρου,n2 - tendon, 3
+νῶτον,νώτου,n2 - back, 31
+ὀδούς,ὀδόντος,m3 - tooth, 19
+ὄμμα,ὄμματος,n3 - eye, 14
+ὄσσε,,n2 - eyes, 31 (dual)
+ὀμφαλός,ὀμφαλοῦ,m2 - belly button, 8
+ὄνυξ,ὄνυχος,m3 - claw, nail, hoof, talon, 5 (cf. ὁπλή; in Homer only as dative plural ὀνύχεσσι)
+ὁπλή,ὁπλῆς,f1 - hoof, 2 (cf. ὄνυξ; in Homer only as genitive plural ὁπλέων)
+οὐρή,οὐρῆς,f1 - tail
+οὖς,οὔατος,n3 - ear, 28
+ὀστέον,ὀστέου,n2 - bone, 46
+οὐλή,οὐλῆς,f1 - scar, 5
+ὀφρύς,ὀφρύος,f3 - eyebrow, 20
+παλάμη,παλάμης,f1 - palm, 22 (cf. θέναρ, ἀγοστός)
+παρήϊον,παρήϊου,n2 - cheek, 5 [text has diar, perseus omits it from lemma; Also occurs as παρήιον, without the diaresis. Homer frequently uses the epithet καλλιπάρῃος, fair-cheeked, for women and goddesses. Attic παρειά.]
+πῆχυς,πήχεως - the forearm, from the wrist to the elbow, 8 (acc sing πῆχυν, pl πήχεε)
+πλευρά,πλευρᾶς - rib, 5 (only in plural)
+πλόκαμος,πλοκάμου - lock of hair, 1 (from πλέκω, to braid, knit; also πλοχμός)
+πνεύμων - lung, 1
+πούς - foot, 287
+πρόσωπον - face, 10
+πτέρνη,πτέρνης - heel, 1
+πτερόν - feather, wing, 10
+ῥάχις,ῥάχιος - spine, lower back, 1
+ῥί_ς, ῥι_νός - nose, nostrils, 15 (the plural can mean the nose, i.e., it's thought of as an organ in two halves)
+σπλάγχνα,σπλάγχνων - 9, guts, seat of feelings (only in plural; famous biblical issue)
+στέρνον,στέρνοιο - breast, chest, seat of feelings, 19 (for men much more commonly στῆθος)
+στῆθος,στήθεος - breast, chest, seat of feelings, 191
+στόμαχος,στομάχοιο - throat, 3
+σφονδύλιος - one of the vertebrae of the neck, 1
+σφυρόν,σφυροῦ - ankle, foothill, 5
+ὑπήνη,ὑπήνης - facial hair (only in ὑπηνήτης, bearded)
+χεῖλος,χείλευς - lip (only in plural, χείλεσιν, χείλεα), 10
+χολάδες - bowels (only in plural; dictionary form is singular χολάς), 2
+χροιή - flesh, body, person, 1 (rare variant of χρώς)
+χρώς - flesh, body, person, 101 (rarely χροιή)
+στόμα - mouth, 28
+σῶμα - dead body, 8 (more commonly νέκυς)
+φάρυγξ - throat, 2 (cf λαυκανίη)
+φρήν - chest, mind (?), 308
+χείρ - hand, 633
+ὠλένη - elbow, lower arm (seems to occur only in the epithet λευκώλενος)
+ὦμος - shoulder, 161 (thought of as the seat of strength; cog humerus)
