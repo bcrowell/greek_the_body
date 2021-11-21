@@ -1,0 +1,86 @@
+ἀγκών, ἀγκῶνος,m3 - elbow, 8
+ἀγοστός, ἀγοστοῦ,m2 - palm, arm, filth, 5 (more commonly παλάμη)
+αἷμα, αἵματος,n3 - blood, 116
+αὐχήν, αὐχένος,m3 - neck, 40
+βραχίων, βραχίονος,m3 - upper arm, shoulder, 6
+γένειον, γενείου,n2 - chin, 7
+γενειάδες, γενειάδων,f3 - cheeks, 1 (sing γενειάς nonexistent in Homer, would mean beard; more common παρήιον)
+γένυς, γένυος,f3 - jaw, 3
+γλουτός,γλουτοῦς,m2 - buttock, plural=butt, 3
+γλῶσσα,γλώσσης,f1 - tongue, 12
+γόνυ, γουνός,n3 - knee, 122 (gen also γούνατος)
+δάκρυ, δάκρυος,n3 - tear, 103 (gen unattested, guessed based on μῶλυος and other forms of δάκρυ, but cf. ἄστυ/ἄστεος; also δάκρυον, δακρύου)
+δάκτυλος - finger, toe (only in H in rhododactylos heos; there is no separate word for thumb)
+δειρή, δειρῆς,f1 - neck, throat, mane, 13
+δέρμα, δέρματος,n3 - skin, hide, 14
+ἔντερα, ἐντέρου,n2 - entrails, 6 (seldom in singular, indexed by perseus under singular ἔντερον)
+ἧπαρ, ἥπατος,n3 - liver, 9
+ἦτορ, ἤτορος,n3 - heart, 93 (gen unattested in homer, only sing nom & acc occur)
+θέμεθλα, θεμέθλων,n2 - eye socket, lower part (of the throat), 4 (plural only)
+θέναρ, θέναρος,n3 - palm, 1 [more commonly παλάμη; outside of Homer, can also mean flat of foot]
+θρίξ,τριχός,f3 - hair, 14
+ἰγνύ_η,ἰγνύας,f1 - back of the knee, hamstring, 1 (indexed by perseus under ἰγνύα)
+ἴουλος,ἰούλου,m2 - whisker, 1 (occurs as plural ἰούλους)
+ἰχώρ - blood of a god, various other fluids, 2
+καρπός,καρποῦ,m2 - wrist, 24
+κεφαλή,κεφαλῆς,f1 - head, 137
+κνήμη,κνήμης,f1 - calf, lower leg, 16
+κόμη,κόμης,f1 - hair, 13
+κοτύλη,κοτύλη,f1 - hip socket, 5
+κρανίον,κρανίου,n2 - skull, 1
+κρόταφος,κροτάφοιο,m2 - temple (of the head), 11
+λαπάρη,λαπάρης,f1 - flank, 7 [indexed by perseus under λαπάρα]
+λαυκανίη,λαυκανίης,f1 - throat, 2 (cf φάρυγξ)
+λόφος,λόφου,m2 - nape of the neck (also a hill), 15
+μαζός,μαζοῖο,m2 - nipple, female breast, one side of a male chest, 17 (indexed by perseus under μαστός)
+μέλος,μέλεος,m2 - limb, 24
+μέτωπον,μετώπου,n2 - forehead, 12
+μῆδεα,μηδέων - genitals, testicles 23 (indexed by perseus as the singular μῆδος; is this only male?)
+μηρός,μηροῦ,m2 - thigh, 36
+μυελός,μυελοῦ,m2 - marrow, 4
+μυ_ών,μυ_ῶνος,m3 - muscle, 2 (unattested gen given by Cunliffe, makes sense compared to αἰών)
+νέκυς,νέκυος,m3 - dead body, 78 (cf σῶμα)
+νεῦρον,νεύρου,n2 - tendon, 3
+νῶτον,νώτου,n2 - back, 31
+ὀδούς,ὀδόντος,m3 - tooth, 19
+ὄμμα,ὄμματος,n3 - eye, 14
+ὄσσε,,n2 - eyes, 31 (dual)
+ὀμφαλός,ὀμφαλοῦ,m2 - belly button, 8
+ὄνυξ,ὄνυχος,m3 - claw, nail, hoof, talon, 5 (cf. ὁπλή; in Homer only as dative plural ὀνύχεσσι)
+ὁπλή,ὁπλῆς,f1 - hoof, 2 (cf. ὄνυξ; in Homer only as genitive plural ὁπλέων)
+οὐρή,οὐρῆς,f1 - tail
+οὖς,οὔατος,n3 - ear, 28
+ὀστέον,ὀστέου,n2 - bone, 46
+οὐλή,οὐλῆς,f1 - scar, 5
+ὀφρύς,ὀφρύος,f3 - eyebrow, 20
+παλάμη,παλάμης,f1 - palm, 22 (cf. θέναρ, ἀγοστός)
+παρήϊον,παρήϊου,n2 - cheek, 5 [text has diar, perseus omits it from lemma; Also occurs as παρήιον, without the diaresis. Homer frequently uses the epithet καλλιπάρῃος, fair-cheeked, for women and goddesses. Attic παρειά.]
+πῆχυς,πήχεως - the forearm, from the wrist to the elbow, 8 (acc sing πῆχυν, pl πήχεε)
+πλευρά,πλευρᾶς - rib, 5 (only in plural)
+πλόκαμος,πλοκάμου - lock of hair, 1 (from πλέκω, to braid, knit; also πλοχμός)
+πνεύμων - lung, 1
+πούς - foot, 287
+πραπίδες,πραπίδων,f3 - diaphragm, midriff, seat of wisdom and cunning, 11 (only in plural in Homer, and indexed by perseus under plural)
+πρόσωπον - face, 10
+πτέρνη,πτέρνης - heel, 1
+πτερόν - feather, wing, 10
+ῥάχις,ῥάχιος - spine, lower back, 1
+ῥί_ς, ῥι_νός - nose, nostrils, 15 (the plural can mean the nose, i.e., it's thought of as an organ in two halves)
+σπλάγχνα,σπλάγχνων - 9, guts, seat of feelings (only in plural; famous biblical issue)
+στέρνον,στέρνοιο - breast, chest, seat of feelings, 19 (for men much more commonly στῆθος)
+στῆθος,στήθεος - breast, chest, seat of feelings, 191
+στόμαχος,στομάχοιο - throat, 3
+σφονδύλιος - one of the vertebrae of the neck, 1
+σφυρόν,σφυροῦ - ankle, foothill, 5
+ὑπήνη,ὑπήνης - facial hair (only in ὑπηνήτης, bearded)
+χεῖλος,χείλευς - lip (only in plural, χείλεσιν, χείλεα), 10
+χολάδες - bowels (only in plural; dictionary form is singular χολάς), 2
+χροιή - flesh, body, person, 1 (rare variant of χρώς)
+χρώς - flesh, body, person, visible surface of the flesh (χρόα λευκὸν, μελαίνετο χρόα, etc.) 101 (rarely χροιή)
+στόμα - mouth, 28
+σῶμα - dead body, 8 (more commonly νέκυς)
+φάρυγξ - throat, 2 (cf λαυκανίη)
+φρήν - chest, mind (?), 308
+χείρ - hand, 633
+ὠλένη - elbow, lower arm (seems to occur only in the epithet λευκώλενος)
+ὦμος - shoulder, 161 (thought of as the seat of strength; cog humerus)
