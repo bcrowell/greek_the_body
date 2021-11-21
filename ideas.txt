@@ -1,6 +1,3 @@
-
-
-
 most common words, for use in locating examples in Homer to study (**=over 250, *=over 150)
   ἄλγος  αἷμα  γόνυ  δάκρυον  ἦτορ  κεφαλή  νέκυς  πούς **  φρήν ** χείρ ***  ὦμος **
 most common forms of these
@@ -31,60 +28,6 @@ locative dative
   is poetic, and happens without preposition
   θυμῷ, καρδίῃ ... I think this is like saying they feel it in their soul, etc.
 
-==========examples from Iliad=========
--- φρεσὶ
-Il. 1.55
-τῷ γὰρ ἐπὶ φρεσὶ θῆκε θεὰ λευκώλενος Ἥρη·
-for to his mind the white-armed goddess Hera had suggested it
-
--- ὄσσε
-Il. 1.104
-ὄσσε δέ οἱ πυρὶ ἐΐκτην
-and his eyes were like fire
-[monro's example, dative pronoun]
-
--- αἷμα
-1.303
-αἶψά τοι αἷμα κελαινὸν ἐρωήσει περὶ δουρί.
-Immediately your dark blood will flow from my spear. [my trans]
-Τοι is dative: https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Il.+1.303&fromdoc=Perseus%3Atext%3A1999.01.0133
-
--- χειρὶ
-1.584
- Ὣς ἄρ᾽ ἔφη καὶ ἀναΐξας δέπας ἀμφικύπελλον
-μητρὶ φίλῃ ἐν χειρὶ τίθει καί μιν προσέειπε
-Thus then he spoke, and rising, he placed the double cup in the hand
-of his dear mother, and addressed her:[...]
-(mother is dative because it's the hand belonging to her; hand is dative because ἐν takes the dative)
-
--- γουνάσομαι (verb rather than noun)
-1.425
-καὶ τότ ̓ ἔπειτά τοι εἶμι Διὸς ποτὶ χαλκοβατὲς δῶ,
-καί μιν γουνάσομαι καί μιν πείσεσθαι ὀΐω.»
-and then will I go to the brazen-floored
-palace of Zeus, and suppliantly embrace his knees, and I think that
-he will be persuaded."
-
--- ὤμων
-1.46
-ἔκλαγξαν δ᾽ ἄρ᾽ ὀιστοὶ ἐπ᾽ ὤμων χωομένοιο,
-αὐτοῦ κινηθέντος· ὁ δ᾽ ἤιε νυκτὶ ἐοικώς·
-But as he moved, the shafts rattled forthwith upon the shoulders of him
-enraged; but he went along like unto the night.
-
--- κεφαλῇ
-1.524
-εἰ δ᾽ ἄγε τοι κεφαλῇ κατανεύσομαι ὄφρα πεποίθῃς·
-I will nod to thee with my head, that thou mayest feel confidence.
-
--- πόδας
-πόδας ὠκὺς Ἀχιλλεύς
-
--- χεῖρας
-1.88
-σοὶ κοίλῃς παρὰ νηυσὶ βαρείας χεῖρας ἐποίσει
-shall lay heavy hands upon thee at the hollow ships [future of ἐπιφέρω]
-
 ======================================================
 
 many are frequently in dual, e.g., χείρ
@@ -95,7 +38,7 @@ some very common ones to use for googling for similar lists
 thesis that covers this,Camagni , manchester, 2017 
   https://www.research.manchester.ac.uk/portal/files/86865466/FULL_TEXT.PDF
 related vocab
-  ἄλγος - pain, 92 (cf. ὀδύνη)
+  ἄλγος - pain, 92 (cf. ὀδύνη) (seems to mostly occur as "woe"?)
   ἰ_άομαι - to heal, 6
   ἰά_πτω - to hurt, 2
   ἰ_δίω - to sweat, Od 20.204, not indexed by perseus
@@ -114,6 +57,107 @@ finger and leg
 anus
   πρωκτός is used by Aristophanes, can't find anything for Homer, no results in reverse search in Cunliffe
 ======================================================
+epithets
+  fair-haired Menelaus
+======================================================
+pain and illness
+
+
+https://kosmossociety.chs.harvard.edu/core-vocab-paskhein-and-pathos/
+  πάσχω is really "to experience"
+
+  Odyssey 22.173–177
+    σφῶϊ δ' ἀποστρέψαντε πόδας καὶ χεῖρας ὕπερθεν
+    ἐς θάλαμον βαλέειν, σανίδας δ' ἐκδῆσαι ὄπισθε,
+    σειρὴν δὲ πλεκτὴν ἐξ αὐτοῦ πειρήναντε
+    κίον' ἀν' ὑψηλὴν ἐρύσαι πελάσαι τε δοκοῖσιν,
+    ὥς κεν δηθὰ ζωὸς ἐὼν χαλέπ' ἄλγεα πάσχῃ.
+  Describes a form of physical torture, ending in "ἄλγεα πάσχῃ".
+  Generally what is suffered in physical pain is: ἄλγος/ἄλγεα, πῆμα/πήματα
+  Also γίγνομαι, συμβαίνω
+
+Modern Greek: πονάει το κεφάλι μου (google translate)
+possibly there's some verb I haven't found, or it's something like "my head gives me pain"
+
+Iliad 5.392 -- description of  Menelaus wounded by an arrow, treated by a doctor
+interesting discussion of gods being wounded by mortals (demigods?)
+  "But he [Pluto] went to the palace of Jove, and the lofty Olympus, grieving in his heart, and transfixed with
+     pains; for the shaft had pierced into his huge shoulder, and tortured his soul."
+  "Juno also suffered, when the brave son of Amphitryon [Hercules] smote her in the right breast with a three-pronged shaft.
+                     Then most irremediable pain seized her."
+    τλῆ δ’ Ἥρη, ὅτε μιν κρατερὸς πάϊς Ἀμφιτρύωνος
+    δεξιτερὸν κατὰ μαζὸν ὀϊστῷ τριγλώχινι
+    βεβλήκει· τότε καί μιν ἀνήκεστον λάβεν ἄλγος.
+    τλάω = to suffer, τλῆ=aor (contracted?)
+
+healing of gods
+    
+  "Thus he spoke, and ordered Pæon to heal him:"
+passage describing people being killed and grievously wounded
+  "He on his part was eagerly dragging by the foot Iphidamas his brother,"
+"She spoke, and with her palms wiped off the ichor from her hand: the hand was healed, and the severe pains mitigated."
+
+excellent example to study
+  "he instantly bent his bow against Eurypylus, and smote him with an arrow upon the right thigh; and the reed was broken, and pained his thigh."
+  Εὐρύπυλος δ᾽ ἐπόρουσε καὶ αἴνυτο τεύχε᾽ ἀπ᾽ ὤμων. 580
+  τὸν δ᾽ ὡς οὖν ἐνόησεν Ἀλέξανδρος θεοειδὴς
+  τεύχε᾽ ἀπαινύμενον Ἀπισάονος, αὐτίκα τόξον
+  ἕλκετ᾽ ἐπ᾽ Εὐρυπύλῳ, καί μιν βάλε μηρὸν ὀϊστῷ
+  δεξιόν· ἐκλάσθη δὲ δόναξ, ἐβάρυνε δὲ μηρόν.
+
+  βάλε μηρὸν ὀϊστῷ δεξιόν = hit the right thigh (accusative) with an arrow (dative)
+
+  Here βαρύνω=weigh down, oppress
+
+stereotyped phrases
+  ἄλγεα πάσχων
+  πάθοι ἄλγεα θυμῷ
+text from buckley
+  "left him suffering with the evil sting of a deadly serpent." Iliad 
+  "suffer" is mostly "suffer him to" or to suffer in general
+blood is often "black"
+"While he was thus speaking, the end of death covered him as to his eyes
+    and nostrils; but Patroclus, trampling with his heel upon his breast,
+    drew out the spear from his body, and the midriff 535 followed with it;
+    and he drew out at the same time his life and the point of the weapon."
+======================================================
+How do we say that a body part hurts?
+Woodhouse has no entry for intransitive "hurt."
+======================================================
+
+The constuctions seem to be:
+  I suffer pain -- using τλάω, πάσχω, ἄλγος/ἄλγεα, πῆμα/πήματα
+  Pain oppresses me -- using βαρύνω (note semantic similarity between τλάω, βαρύνω)
+  Pain seizes me -- using ἄλγος, λαμβάνω 
+
+why is αἵματι, a dative, so common?
+
+stereotyped constructions
+  ῥέε δ’ αἵματι γαῖα (is this the accusative γαῖαν with movable nu?)
+  αἵματι φωτῶν
+other examples
+  παλάσσετο δ’ αἵματι θώρηξ
+  μιάνθην αἵματι μηροὶ 4.146
+  ῥέε δ᾽ αἵματι γαῖα μέλαινα.
+  πᾶσιν δὲ παρήϊον αἵματι φοινόν
+
+Answer: it's common as an indirect object, in phrases like "stained with," "sprinkled with."
+
+Iliad 4.146
+τοῖοί τοι Μενέλαε μιάνθην αἵματι μηροὶ
+εὐφυέες κνῆμαί τε ἰδὲ σφυρὰ κάλ’ ὑπένερθε.
+so,
+Menelaus, were thy well-proportioned thighs, and legs, and fair feet
+below, stained with gore.
+
+Iliad
+πάντῃ δὴ πύργοι καὶ ἐπάλξιες αἵματι φωτῶν 430
+ἐῤῥάδατ᾽ ἀμφοτέρωθεν ἀπὸ Τρώων καὶ Ἀχαιῶν.
+Everywhere the towers and buttresses were sprinkled, on both
+sides, with the blood of heroes, from the Trojans and the Greeks.
+  ῥαίνω = sprinkle, φώς=man
+======================================================
+
 
 ἀγκών, ἀγκῶνος,m3 - elbow, 8
 ἀγοστός, ἀγοστοῦ,m2 - palm, arm, filth, 5 (more commonly παλάμη)
@@ -177,6 +221,7 @@ anus
 πλόκαμος,πλοκάμου - lock of hair, 1 (from πλέκω, to braid, knit; also πλοχμός)
 πνεύμων - lung, 1
 πούς - foot, 287
+πραπίδες,πραπίδων,f3 - diaphragm, midriff, seat of wisdom and cunning, 11 (only in plural in Homer, and indexed by perseus under plural)
 πρόσωπον - face, 10
 πτέρνη,πτέρνης - heel, 1
 πτερόν - feather, wing, 10
@@ -192,7 +237,7 @@ anus
 χεῖλος,χείλευς - lip (only in plural, χείλεσιν, χείλεα), 10
 χολάδες - bowels (only in plural; dictionary form is singular χολάς), 2
 χροιή - flesh, body, person, 1 (rare variant of χρώς)
-χρώς - flesh, body, person, 101 (rarely χροιή)
+χρώς - flesh, body, person, visible surface of the flesh (χρόα λευκὸν, μελαίνετο χρόα, etc.) 101 (rarely χροιή)
 στόμα - mouth, 28
 σῶμα - dead body, 8 (more commonly νέκυς)
 φάρυγξ - throat, 2 (cf λαυκανίη)

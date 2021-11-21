@@ -1,0 +1,118 @@
+==========long example, Iliad 11.571 ===============
+τὰ δὲ δοῦρα θρασειάων ἀπὸ χειρῶν
+ἄλλα μὲν ἐν σάκεϊ μεγάλῳ πάγεν ὄρμενα πρόσσω,
+πολλὰ δὲ καὶ μεσσηγύ, πάρος χρόα λευκὸν ἐπαυρεῖν,
+ἐν γαίῃ ἵσταντο λιλαιόμενα χροὸς ἆσαι.
+
+ And spears
+hurled against him from daring hands, stuck, some indeed in his ample
+shield, and many, though eager to glut themselves with his flesh, stood
+fixed in the ground between, before they could reach his fair skin.
+
+-------------
+
+Τὸν δ᾽ ὡς οὖν ἐνόησ᾽ Εὐαίμονος ἀγλαὸς υἱὸς
+Εὐρύπυλος πυκινοῖσι βιαζόμενον βελέεσσι,
+
+Whom when Eurypylus, the illustrious son of Evæmon, perceived pressed
+hard with many darts, 
+
+----
+
+στῆ ῥα παρ᾽ αὐτὸν ἰών, καὶ ἀκόντισε δουρὶ φαεινῷ,
+καὶ βάλε Φαυσιάδην Ἀπισάονα ποιμένα λαῶν
+ἧπαρ ὑπὸ πραπίδων, εἶθαρ δ᾽ ὑπὸ γούνατ᾽ ἔλυσεν·
+
+advancing he stood beside him, and took aim with
+his shining spear; and smote Apisaon, son of Phausias, shepherd of the
+people, in the liver, under the diaphragm; and immediately relaxed his
+limbs.
+
+----------
+
+Εὐρύπυλος δ᾽ ἐπόρουσε καὶ αἴνυτο τεύχε᾽ ἀπ᾽ ὤμων. 580
+
+τὸν δ᾽ ὡς οὖν ἐνόησεν Ἀλέξανδρος θεοειδὴς
+τεύχε᾽ ἀπαινύμενον Ἀπισάονος, αὐτίκα τόξον
+ἕλκετ᾽ ἐπ᾽ Εὐρυπύλῳ, καί μιν βάλε μηρὸν ὀϊστῷ
+δεξιόν·
+
+ And when godlike Alexander observed him stripping off the armour
+of Apisaon, he instantly bent his bow against Eurypylus, and smote him
+with an arrow upon the right thigh;
+
+---------------
+
+ ἐκλάσθη δὲ δόναξ, ἐβάρυνε δὲ μηρόν.
+
+ and the reed was broken, and pained
+his thigh.
+
+----------------
+
+[...]
+
+-----------
+
+Ὣς ἔφατ᾽ Εὐρύπυλος βεβλημένος· οἱ δὲ παρ᾽ αὐτὸν
+πλησίοι ἔστησαν σάκε᾽ ὤμοισι κλίναντες
+δούρατ᾽ ἀνασχόμενοι·
+
+So spake the wounded Eurypylus, and they stood very near him, resting
+their shields upon their shoulders, and lifting up their spears.
+
+
+==========short examples from Iliad=========
+-- φρεσὶ
+Il. 1.55
+τῷ γὰρ ἐπὶ φρεσὶ θῆκε θεὰ λευκώλενος Ἥρη·
+for to his mind the white-armed goddess Hera had suggested it
+
+-- ὄσσε
+Il. 1.104
+ὄσσε δέ οἱ πυρὶ ἐΐκτην
+and his eyes were like fire
+[monro's example, dative pronoun]
+
+-- αἷμα
+1.303
+αἶψά τοι αἷμα κελαινὸν ἐρωήσει περὶ δουρί.
+Immediately your dark blood will flow from my spear. [my trans]
+Τοι is dative: https://www.perseus.tufts.edu/hopper/text?doc=Hom.+Il.+1.303&fromdoc=Perseus%3Atext%3A1999.01.0133
+
+-- χειρὶ
+1.584
+ Ὣς ἄρ᾽ ἔφη καὶ ἀναΐξας δέπας ἀμφικύπελλον
+μητρὶ φίλῃ ἐν χειρὶ τίθει καί μιν προσέειπε
+Thus then he spoke, and rising, he placed the double cup in the hand
+of his dear mother, and addressed her:[...]
+(mother is dative because it's the hand belonging to her; hand is dative because ἐν takes the dative)
+
+-- γουνάσομαι (verb rather than noun)
+1.425
+καὶ τότ ̓ ἔπειτά τοι εἶμι Διὸς ποτὶ χαλκοβατὲς δῶ,
+καί μιν γουνάσομαι καί μιν πείσεσθαι ὀΐω.»
+and then will I go to the brazen-floored
+palace of Zeus, and suppliantly embrace his knees, and I think that
+he will be persuaded."
+
+-- ὤμων
+1.46
+ἔκλαγξαν δ᾽ ἄρ᾽ ὀιστοὶ ἐπ᾽ ὤμων χωομένοιο,
+αὐτοῦ κινηθέντος· ὁ δ᾽ ἤιε νυκτὶ ἐοικώς·
+But as he moved, the shafts rattled forthwith upon the shoulders of him
+enraged; but he went along like unto the night.
+
+-- κεφαλῇ
+1.524
+εἰ δ᾽ ἄγε τοι κεφαλῇ κατανεύσομαι ὄφρα πεποίθῃς·
+I will nod to thee with my head, that thou mayest feel confidence.
+
+-- πόδας
+πόδας ὠκὺς Ἀχιλλεύς
+
+-- χεῖρας
+1.88
+σοὶ κοίλῃς παρὰ νηυσὶ βαρείας χεῖρας ἐποίσει
+shall lay heavy hands upon thee at the hollow ships [future of ἐπιφέρω]
+
