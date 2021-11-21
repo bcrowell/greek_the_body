@@ -21,7 +21,7 @@
 θρίξ,τριχός,f3 - hair, 14
 ἰγνύ_η,ἰγνύας,f1 - back of the knee, hamstring, 1 (indexed by perseus under ἰγνύα)
 ἴουλος,ἰούλου,m2 - whisker, 1 (occurs as plural ἰούλους)
-ἰχώρ - blood of a god, various other fluids, 2
+ἰχώρ,,m3 - blood of a god, various other fluids; accusative ἰχῶ, 2
 καρπός,καρποῦ,m2 - wrist, 24
 κεφαλή,κεφαλῆς,f1 - head, 137
 κνήμη,κνήμης,f1 - calf, lower leg, 16
@@ -55,32 +55,32 @@
 ὀφρύς,ὀφρύος,f3 - eyebrow, 20
 παλάμη,παλάμης,f1 - palm, 22 (cf. θέναρ, ἀγοστός)
 παρήϊον,παρήϊου,n2 - cheek, 5 [text has diar, perseus omits it from lemma; Also occurs as παρήιον, without the diaresis. Homer frequently uses the epithet καλλιπάρῃος, fair-cheeked, for women and goddesses. Attic παρειά.]
-πῆχυς,πήχεως - the forearm, from the wrist to the elbow, 8 (acc sing πῆχυν, pl πήχεε)
-πλευρά,πλευρᾶς - rib, 5 (only in plural)
-πλόκαμος,πλοκάμου - lock of hair, 1 (from πλέκω, to braid, knit; also πλοχμός)
-πνεύμων - lung, 1
+πῆχυς,πήχεως,m3 - the forearm, from the wrist to the elbow, 8 (acc sing πῆχυν, pl πήχεε)
+πλευρά,πλευρᾶς,f1 - rib, 5 (only in plural)
+πλόκαμος,πλοκάμου,m2 - lock of hair, 1 (from πλέκω, to braid, knit; also πλοχμός)
+πνεύμων,πνεύμονος,m3 - lung, 1
 πούς - foot, 287
 πραπίδες,πραπίδων,f3 - diaphragm, midriff, seat of wisdom and cunning, 11 (only in plural in Homer, and indexed by perseus under plural)
-πρόσωπον - face, 10
-πτέρνη,πτέρνης - heel, 1
-πτερόν - feather, wing, 10
-ῥάχις,ῥάχιος - spine, lower back, 1
-ῥί_ς, ῥι_νός - nose, nostrils, 15 (the plural can mean the nose, i.e., it's thought of as an organ in two halves)
-σπλάγχνα,σπλάγχνων - 9, guts, seat of feelings (only in plural; famous biblical issue)
-στέρνον,στέρνοιο - breast, chest, seat of feelings, 19 (for men much more commonly στῆθος)
-στῆθος,στήθεος - breast, chest, seat of feelings, 191
-στόμαχος,στομάχοιο - throat, 3
+πρόσωπον,προσώπου,n2 - face, 10
+πτέρνη,πτέρνης,f1 - heel, 1
+πτερόν,πτεροῦ,n2 - feather, wing, 10
+ῥάχις,ῥάχιος,f3 - spine, lower back, 1
+ῥί_ς,ῥι_νός,f3 - nose, nostrils, 15 (the plural can mean the nose, i.e., it's thought of as an organ in two halves)
+σπλάγχνα,σπλάγχνων,n2 - 9, guts, seat of feelings (only in plural; famous biblical issue)
+στέρνον,στέρνοιο,n2 - breast, chest, seat of feelings, 19 (for men much more commonly στῆθος)
+στῆθος,στήθεος,n3 - breast, chest, seat of feelings, 191
+στόμαχος,στομάχοιο,m2 - throat, 3
 σφονδύλιος - one of the vertebrae of the neck, 1
-σφυρόν,σφυροῦ - ankle, foothill, 5
-ὑπήνη,ὑπήνης - facial hair (only in ὑπηνήτης, bearded)
-χεῖλος,χείλευς - lip (only in plural, χείλεσιν, χείλεα), 10
-χολάδες - bowels (only in plural; dictionary form is singular χολάς), 2
+σφυρόν,σφυροῦ,n2 - ankle, foothill, 5
+ὑπήνη,ὑπήνης,f1 - facial hair (only in ὑπηνήτης, bearded)
+χεῖλος,χείλευς,n3 - lip (only in plural, χείλεσιν, χείλεα), 10
+χολάδες,χολάδος,f3 - bowels (only in plural; dictionary form is singular χολάς), 2
 χροιή - flesh, body, person, 1 (rare variant of χρώς)
-χρώς - flesh, body, person, visible surface of the flesh (χρόα λευκὸν, μελαίνετο χρόα, etc.) 101 (rarely χροιή)
-στόμα - mouth, 28
-σῶμα - dead body, 8 (more commonly νέκυς)
-φάρυγξ - throat, 2 (cf λαυκανίη)
-φρήν - chest, mind (?), 308
-χείρ - hand, 633
-ὠλένη - elbow, lower arm (seems to occur only in the epithet λευκώλενος)
-ὦμος - shoulder, 161 (thought of as the seat of strength; cog humerus)
+χρώς,χροός,f3 - flesh, body, person, visible surface of the flesh (χρόα λευκὸν, μελαίνετο χρόα, etc.) 101 (rarely χροιή)
+στόμα,στόματος,n3 - mouth, 28
+σῶμα,σώματος,n3  - dead body, 8 (more commonly νέκυς)
+φάρυγξ,φάρυγος,n3 - throat, 2 (cf λαυκανίη)
+φρήν,φρενός,f3 - chest, mind (?), 308
+χείρ,χειρός,f3 - hand, 633
+ὠλένη,ὠλένης,f1 - elbow, lower arm (seems to occur only in the epithet λευκώλενος)
+ὦμος,ὤμου,m2 - shoulder, 161 (thought of as the seat of strength; cog humerus)
