@@ -141,3 +141,15 @@ singular
  my lip - μοι χεῖλος 
  his back - οἱ νῶτον
  your fingernail - τοι ὄνυξ
+
+plural
+  ἡμῖν ὑμῖν σφισι
+
+  our heads - κεφαλαί ἡμῖν
+  your heads - κεφαλαί ὑμῖν
+  their heads - κεφαλαί σφισι
+  their jaws - γένυες σφισι
+  their elbows - ἀγκῶνες σφισι
+  their bosoms - κόλποι σφισι
+  our feet - πόδες ἡμῖν
+  our ankles - σφυρὰ ἡμῖν
