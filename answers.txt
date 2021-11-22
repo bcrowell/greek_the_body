@@ -32,7 +32,9 @@
 πτερόν,πτεροῦ,n2 - feather, wing, 10
 
 λαπάρη,λαπάρης,f1 - flank, 7 [indexed by perseus under λαπάρα]
+κόλπος,κόλπου,m2 - bosom, bosom of a peplos, 16
 νῶτον,νώτου,n2 - back, 31
+γαστήρ,γαστέρος - belly, 30
 ὀμφαλός,ὀμφαλοῦ,m2 - belly button, 8
 
 γλουτός,γλουτοῦς,m2 - buttock, plural=butt, 3
@@ -112,3 +114,18 @@
 χολάδες,χολάδος,f3 - bowels (only in plural; dictionary form is singular χολάς), 2
 χροιή - flesh, body, person, 1 (rare variant of χρώς)
 φάρυγξ,φάρυγος,n3 - throat, 2 (cf λαυκανίη)
+
+================== dative ================
+ἄλγεα πάθον ... 
+  wrist ... καρπῷ
+  shoulder ... καὶ δὲ ὤμῳ
+  breast ... μαζῷ
+  limb ... μέλῳ
+  head ... κεφαλῇ
+  tongue ... γλώσσῃ
+  hand ... χειρί
+  belly ... γαστέρι
+  knees ... γούνασι
+  feet ... ποσὶν
+  nose ... ῥι_ςί
+  thighs ... μηροῖς

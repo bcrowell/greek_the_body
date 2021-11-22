@@ -30,7 +30,45 @@ locative dative
   is poetic, and happens without preposition
   θυμῷ, καρδίῃ ... I think this is like saying they feel it in their soul, etc.
 
+=============== accusative =======================================
+χρίω + acc + dat = anoint a body part with something, typically ἐλαίῳ
+κατὰ δάκρυα λείβων
+  κατὰ δάκρυα λείβων
+  λείβω + acc = to pour, shed (I assume cog w/libation); dat = to a god
+  χέω is also used to mean "shed tears"
+=============== dative =======================================
+ῥαίνω + dat = sprinkle with (blood, ichor, tears)
+suffer pain + dat
+  πάσχω ἄλγεα + dat
+with locativeish dative
+  can be used for in, on, under
+    "σάκε᾽ ὤμοισι κλίναντες", resting their shields upon their shoulders, κλῑ́νω=lean on
+    prompt: νωτον, answer: Κλίνω νώτῳ ; also arm, shoulder, knee, hand, elbow
+    prompt: στόμα, answer: σῖτος στόματι; also guts, belly
+    prompt: ὄμμα, answer using plural: μέλισσαι ὄμμασι; also ears, nostrils, mouths, throats
+    prompt: σκήπτρον, answer: σκήπτρον χειρί; also στέμμα, ὑποδήματα, κνημίς, θρίξ
+    prompt: στῆθος, answer: ἐνὶ στήθεσσιν
+      stock adverbial phrase: θυμὸς ἐνὶ στήθεσσιν, e.g., 2.142
+      Ὣς φάτο, τοῖσι δὲ θυμὸν ἐνὶ στήθεσσιν ὄρινε
+      Thus he spoke; and to them he aroused the heart in their breasts
+  in + dat (ἐν/ἐμ/ἐγ, mouth, ear, guts, belly, ...)
+  on, under + dat
+  στέμμα 
+  σκήπτρον ...
+  ὑποδήματα
+  stereotyped phrases:
+    prompt: γαῖα ῥέε μέλαινα ... αἵματι [eartg ran with black...]
+      actual: ῥέε δ' αἵματι γαῖα μέλαινα
+    ἔχουσα παῖδ’ ἐπὶ ... κόλπῳ [carrying the child upon]
+      παῖδ’ ἐπὶ κόλπῳ ἔχουσ’
+    φάσγανον ἔχων ἐν ... χειρὶ
+      τόξον ἔχων ἐν χειρὶ παλίντονον ἠδὲ φαρέτρην
+    ἔγχεα ἔχοντες ... χερσὶν
+      ἔγχεα χερσὶν ἔχοντες
+    Ἀλέξανδρον δαμάσω ἐμῇς ὑπὸ ... χερσὶν [ἐμῇς=fem because hands are fem]
+      "Ζεῦ ἄνα δὸς τίσασθαι ὅ με πρότερος κάκ’ ἔοργε, δῖον Ἀλέξανδρον, καὶ ἐμῇς ὑπὸ χερσὶ δάμασσον..."
 ======================================================
+
 
 many are frequently in dual, e.g., χείρ
 to get first word of each line of the text below
