@@ -153,3 +153,11 @@ plural
   their bosoms - κόλποι σφισι
   our feet - πόδες ἡμῖν
   our ankles - σφυρὰ ἡμῖν
+
+========== spatial =========
+κλί_νομαι
+  back - κλί_νομαι νώτῳ
+  lean against lower arm - κλί_νομαι πήχει
+  shoulder - ὦμῳ
+  knee - γουνί
+  elbow - ἀγκῶνι
