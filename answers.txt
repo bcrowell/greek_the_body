@@ -132,6 +132,7 @@
 
 ============== pronouns ===========
 singular
+ [unstressed dative, pharr p. 312]
  μοι τοι οἱ
 
  my tooth - ὀδούς μοι
@@ -144,6 +145,7 @@ singular
 
 plural
   ἡμῖν ὑμῖν σφισι
+  [Note that the υ in ὑμῖν is short in the dative, unlike in the other cases.]
 
   our heads - κεφαλαί ἡμῖν
   your heads - κεφαλαί ὑμῖν
@@ -161,3 +163,37 @@ plural
   shoulder - ὦμῳ
   knee - γουνί
   elbow - ἀγκῶνι
+
+========= phrases ============
+intro:
+      ῥοδοδάκτυλος Ἠώς
+      πόδας ὠκὺς Ἀχιλλεύς
+      πόδας ὠκέα Ἶρις
+      ἔπεα πτερόεντα ... winged words
+# read off vocab in nom sing: blood, bosom, hand, foot
+#   αἷμα, κόλπος, χείρ, πούς
+#
+  The earth ran with back blood.
+  γαῖα ῥέε μέλαινα ... αἵματι
+  actual: ῥέε δ' αἵματι γαῖα μέλαινα
+#
+  carrying the child upon her bosom
+  ἔχουσα παῖδ’ ἐπὶ ... κόλπῳ
+  actual: παῖδ’ ἐπὶ κόλπῳ ἔχουσ’
+#
+  holding a sword in his hand
+  φάσγανον ἔχων ἐν ... χειρί
+  actual: τόξον ἔχων ἐν χειρὶ παλίντονον ἠδὲ φαρέτρην
+#
+  carrying spears in their hands
+  ἔγχεα ἔχοντες ... χερσὶν
+  actual: ἔγχεα χερσὶν ἔχοντες
+#
+  O Zeus, subdue Alexander to my hands
+  ὦ Ζεῦ, Ἀλέξανδρον δαμάσω ἐμῇς ὑπὸ ... χερσὶν 
+  [ἐμῇς=fem because hands are fem]
+  actual: Ζεῦ ἄνα δὸς τίσασθαι ὅ με πρότερος κάκ’ ἔοργε, δῖον Ἀλέξανδρον, καὶ ἐμῇς ὑπὸ χερσὶ δάμασσον...
+#
+  he fell between the feet of a woman
+  πέσε γυναικὸς μετὰ ... ποσσίν
+  actual: ὅς κεν ἐπ᾽ ἤματι τῷδε πέσῃ μετὰ ποσσὶ γυναικὸς

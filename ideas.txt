@@ -57,17 +57,56 @@ with locativeish dative
   σκήπτρον ...
   ὑποδήματα
   stereotyped phrases:
-    prompt: γαῖα ῥέε μέλαινα ... αἵματι [eartg ran with black...]
+    ποσσὶ
+      πόδας ὠκὺς Ἀχιλλεύς
+      πόδας ὠκέα Ἶρις
+      ὑπὸ ποσσὶ ... under their feet, on his feet
+      μετὰ ποσσὶ ... between his/her feet
+      ὣς ἄρα τῶν ὑπὸ ποσσὶ μέγα στεναχίζετο γαῖα ἐρχομένων
+        thus indeed the earth beneath their feet groaned as they went
+      [δώδεκα δ᾽ ἵππους πηγοὺς ἀθλοφόρους, οἳ] ἀέθλια ποσσὶν ἄροντο
+        ἄρνυμαι=win, carry, αθλοφόρος = prize-winning
+        and twelve stout steeds, victorious in the race, which have borne off prizes by their feet.
+      ποσσὶ δ᾽ ὑπὸ λιπαροῖσιν ἐδήσατο καλὰ πέδιλα,
+        And he bound his beautiful sandals on his shining feet,
+        λιπαρός = anointed, shining, πέδιλον=sandal
+      μετὰ ποσσὶ
+        ἦ μὲν τὸν πάντεσσι περικτιόνεσσιν ἀνάξειν,
+        ὅς κεν ἐπ᾽ ἤματι τῷδε πέσῃ μετὰ ποσσὶ γυναικὸς
+        τῶν ἀνδρῶν οἳ σῆς ἐξ αἵματός εἰσι γενέθλης
+            πέσῃ = subj of πίπτω
+        that he shall indeed be ruler over all his neighbours, who shall this day fall between the feet of a woman [be born], among
+                        those men, who are of the blood of thy family
+        also in book 13, Deïpyrus's severed head rolls between someone's feet
+        [these are not stereotyped]
+    ἔπεα πτερόεντα ... winged words
+    # read off vocab in nom sing: blood, bosom, hand, foot
+    #
+      The earth ran with back blood.
+      γαῖα ῥέε μέλαινα ... αἵματι
       actual: ῥέε δ' αἵματι γαῖα μέλαινα
-    ἔχουσα παῖδ’ ἐπὶ ... κόλπῳ [carrying the child upon]
-      παῖδ’ ἐπὶ κόλπῳ ἔχουσ’
-    φάσγανον ἔχων ἐν ... χειρὶ [holding a sword in his hand]
-      τόξον ἔχων ἐν χειρὶ παλίντονον ἠδὲ φαρέτρην
-    ἔγχεα ἔχοντες ... χερσὶν [carrying spears in their hands]
-      ἔγχεα χερσὶν ἔχοντες
-    Ἀλέξανδρον δαμάσω ἐμῇς ὑπὸ ... χερσὶν 
+    #
+      carrying the child upon her bosom
+      ἔχουσα παῖδ’ ἐπὶ ... κόλπῳ
+      actual: παῖδ’ ἐπὶ κόλπῳ ἔχουσ’
+    #
+      holding a sword in his hand
+      φάσγανον ἔχων ἐν ... χειρί
+      actual: τόξον ἔχων ἐν χειρὶ παλίντονον ἠδὲ φαρέτρην
+    #
+      carrying spears in their hands
+      ἔγχεα ἔχοντες ... χερσὶν
+      actual: ἔγχεα χερσὶν ἔχοντες
+    #
+      Zeus, subdue Alexander to my hands
+      Ζεῦ, Ἀλέξανδρον δαμάσω ἐμῇς ὑπὸ ... χερσὶν 
       [ἐμῇς=fem because hands are fem]
-      "Ζεῦ ἄνα δὸς τίσασθαι ὅ με πρότερος κάκ’ ἔοργε, δῖον Ἀλέξανδρον, καὶ ἐμῇς ὑπὸ χερσὶ δάμασσον..."
+      actual: Ζεῦ ἄνα δὸς τίσασθαι ὅ με πρότερος κάκ’ ἔοργε, δῖον Ἀλέξανδρον, καὶ ἐμῇς ὑπὸ χερσὶ δάμασσον...
+    #
+      he fell between the feet of a woman
+      πέσε γυναικὸς μετὰ ... ποσσίν
+      actual: ὅς κεν ἐπ᾽ ἤματι τῷδε πέσῃ μετὰ ποσσὶ γυναικὸς
+    
 ======================================================
 
 
