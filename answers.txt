@@ -163,6 +163,33 @@ plural
   shoulder - ὦμῳ
   knee - γουνί
   elbow - ἀγκῶνι
+ὐπό
+  takes either dative or accus for a literal spatial relationship (Smyth 1698)
+  dative
+    vocab: πούς,
+    #
+      the earth groaned beneath their feet
+      γαῖα στεναχίζετο ὑπὸ ... ποσσίν
+    #
+      he put his beautiful sandals on his feet
+      καλὰ πέδιλα δήσατο ὑπὸ ... ποσσίν
+    #
+      he struck Apisaon, and immediately he loosened his knees out from under him
+      βάλεν Ἀπισάονα, εἶθαρ ἔλυσεν ὑπὸ ... γούνατι
+  accusative    
+    #
+      the spear cut through his teeth under his tongue
+      δόρυ τάμε ἀν’ ὀδόντας ὑπὸ ... γλῶσσαν
+    #
+      the strap was choking him under his throat
+      ἱμὰς ἄγχεν ὑπὸ ... δειρήν
+      Iliad 3.371
+      but the richly-embroidered band under his tender throat was choking him,
+      which was drawn under his chin as the strap of his helmet.
+      ἄγχε δέ μιν πολύκεστος ἱμὰς ἁπαλὴν ὑπὸ δειρήν,
+      ὅς οἱ ὑπ’ ἀνθερεῶνος ὀχεὺς τέτατο τρυφαλείης
+      ἄγχω=choke πολύκεστος=many-stitched ἱμάς=strap ἁπαλός=tender
+
 
 ========= phrases ============
 intro:
@@ -186,11 +213,11 @@ intro:
   actual: τόξον ἔχων ἐν χειρὶ παλίντονον ἠδὲ φαρέτρην
 #
   carrying spears in their hands
-  ἔγχεα ἔχοντες ... χερσὶν
+  ἔγχεα ἔχοντες ... χερσίν
   actual: ἔγχεα χερσὶν ἔχοντες
 #
-  O Zeus, subdue Alexander to my hands
-  ὦ Ζεῦ, Ἀλέξανδρον δαμάσω ἐμῇς ὑπὸ ... χερσὶν 
+  O Zeus, let me subdue Alexander to my hands
+  ὦ Ζεῦ, Ἀλέξανδρον δαμάσσαιμι ἐμῇς ὑπὸ ... χερσίν 
   [ἐμῇς=fem because hands are fem]
   actual: Ζεῦ ἄνα δὸς τίσασθαι ὅ με πρότερος κάκ’ ἔοργε, δῖον Ἀλέξανδρον, καὶ ἐμῇς ὑπὸ χερσὶ δάμασσον...
 #
