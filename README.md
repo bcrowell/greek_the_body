@@ -1,6 +1,8 @@
 Parts of the body in Homer
 ==========================
 
+The first part of this recording introduces the vocabulary for about 80 of the most common words for the parts of
+the body. The second part uses them in grammar drills, mostly focusing on the dative.
 
 # Pronunciation
 
