@@ -19,17 +19,6 @@ most common forms of these
   ποσσὶ(ν) - dat pl
   ὦμον - acc sing
   ὤμων - gen pl
-======================================
-grammar
-Is dative always used when saying whose body part it is?
-  smyth, p. 341, sec 1476, dative of the possessor ...?
-  https://dcc.dickinson.edu/grammar/monro/uses-dative
-
-locative dative
-  smyth p 351, sec 1531
-  is poetic, and happens without preposition
-  θυμῷ, καρδίῃ ... I think this is like saying they feel it in their soul, etc.
-
 =============== accusative =======================================
 χρίω + acc + dat = anoint a body part with something, typically ἐλαίῳ
 κατὰ δάκρυα λείβων
@@ -241,3 +230,21 @@ sides, with the blood of heroes, from the Trojans and the Greeks.
 ======================================================
 
 
+
+ἐν + dat.
+examples from homer
+  ἐν φρεσὶ
+  ἐν χερσὶ
+  ἐν χερὶ
+  ἐν παλάμῃσι(ν)
+  ἐν χροῒ
+  ἐν αὐχέν
+  ἐν νεκύεσσι
+  ἐν γαστρὶ
+  ἐνὶ στήθεσσιν
+  ἐνὶ φρεσὶ 
+  θυμὸς ἐνὶ στήθεσσι
+   Ὣς φάτο, τῇ δ’ ἄρα θυμὸν ἐνὶ στήθεσσιν ὄρινε [common set phrase]
+
+
+  

@@ -1,0 +1,137 @@
+======== 200 pain ======== 
+ἄλγεα πάθον ... 
+  Ow, I've got a pain in my wrist ... ὦ πόποι, πάσχω ἄλγεα καρπῷ
+  shoulder ... καὶ δ' ὤμῳ
+  breast ... καὶ δε μαζῷ
+  limb ... πάθεν ἄλγεα μέλῳ
+  head ... πάθεν ἄλγεα κεφαλῇ
+  tongue ... καὶ δε γλώσσῃ
+  hand ... μήτηρ πάσχει ἄλγεα χειρί
+  belly ... καὶ πατὴρ γαστέρι
+  knees ... γούνασι
+  feet ... ποσίν
+  thighs ... κύων ἄλγεα πάθεν μηροῖς
+  nose ... ῥι_ςί
+
+======== 300 pronouns ======== 
+singular
+ [unstressed dative, pharr p. 312]
+ μοι τοι οἱ
+
+ my tooth - ὀδούς μοι
+ your tooth - ὀδούς τοι
+ his tooth - ὀδούς οἱ
+ my eyes - ὄσσε μοι
+ my lip - μοι χεῖλος 
+ his back - οἱ νῶτον
+ your fingernail - τοι ὄνυξ
+
+plural
+  ἡμῖν ὑμῖν σφισι
+  [Note that the υ in ὑμῖν is short in the dative, unlike in the other cases.]
+
+  our heads - κεφαλαί ἡμῖν
+  your heads - κεφαλαί ὑμῖν
+  their heads - κεφαλαί σφισι
+  their jaws - γένυες σφισι
+  our feet - πόδες ἡμῖν
+  their elbows - ἀγκῶνες σφισι
+  their bosoms - κόλποι σφισι
+  our ankles - σφυρὰ ἡμῖν
+
+======== 400 spatial ======== 
+
+κλί_νομαι
+  back - κλί_νομαι νώτῳ
+  lean against lower arm - κλί_νομαι πήχει
+  shoulder - ὦμῳ
+  knee - γουνί
+  elbow - ἀγκῶνι
+
+ὐπό
+  takes either dative or accus for a literal spatial relationship (Smyth 1698)
+  dative
+    #
+      the earth groaned beneath their feet
+      γαῖα στεναχίζετο ὑπὸ ... ποσσίν
+    #
+      he put his beautiful sandals on his feet
+      καλὰ πέδιλα δήσατο ὑπὸ ... ποσσίν
+    #
+      he struck Apisaon, and immediately he loosened his knees out from under him
+      βάλεν Ἀπισάονα, εἶθαρ ἔλυσεν ὑπὸ ... γούνατι
+  accusative    
+    #
+      the spear cut through his teeth under his tongue
+      δόρυ τάμε ἀν’ ὀδόντας ὑπὸ ... γλῶσσαν
+    #
+      the strap was choking him by the throat
+      ἱμὰς ἄγχεν ὑπὸ ... δειρήν
+      Iliad 3.371
+      but the richly-embroidered band under his tender throat was choking him,
+      which was drawn under his chin as the strap of his helmet.
+      ἄγχε δέ μιν πολύκεστος ἱμὰς ἁπαλὴν ὑπὸ δειρήν,
+      ὅς οἱ ὑπ’ ἀνθερεῶνος ὀχεὺς τέτατο τρυφαλείης
+      ἄγχω=choke πολύκεστος=many-stitched ἱμάς=strap ἁπαλός=tender
+
+
+========= 500 phrases ============
+intro:
+      ῥοδοδάκτυλος Ἠώς
+      πόδας ὠκὺς Ἀχιλλεύς
+      πόδας ὠκέα Ἶρις
+      ἔπεα πτερόεντα ... winged words
+  vocab:
+   αἷμα, κόλπος, χείρ, πούς
+
+#
+  The earth ran with back blood.
+  γαῖα ῥέε μέλαινα ... αἵματι
+  actual: ῥέε δ' αἵματι γαῖα μέλαινα
+#
+  carrying the child upon her bosom
+  ἔχουσα παῖδ’ ἐπὶ ... κόλπῳ
+  actual: παῖδ’ ἐπὶ κόλπῳ ἔχουσ’
+#
+  holding a sword in his hand
+  φάσγανον ἔχων ἐν ... χειρί
+  actual: τόξον ἔχων ἐν χειρὶ παλίντονον ἠδὲ φαρέτρην
+#
+  carrying spears in their hands
+  ἔγχεα ἔχοντες ... χερσίν
+  actual: ἔγχεα χερσὶν ἔχοντες
+#
+  O Zeus, let me subdue Alexander to my hands
+  ὦ Ζεῦ, Ἀλέξανδρον δαμάσσαιμι ἐμῇς ὑπὸ ... χερσίν 
+  [ἐμῇς=fem because hands are fem]
+  actual: Ζεῦ ἄνα δὸς τίσασθαι ὅ με πρότερος κάκ’ ἔοργε, δῖον Ἀλέξανδρον, καὶ ἐμῇς ὑπὸ χερσὶ δάμασσον...
+#
+  he fell between the feet of a woman
+  πέσε γυναικὸς μετὰ ... ποσσίν
+  actual: ὅς κεν ἐπ᾽ ἤματι τῷδε πέσῃ μετὰ ποσσὶ γυναικὸς
+#
+  Simoïs... murmuring with foam, and with blood and dead bodies
+    21 μορμύρων ἀφρῷ τε καὶ αἵματι καὶ νεκύεσσι.
+
+===========600 ἐν ============
+ἐν
+  χείρ ... ἐν χερί
+  χεῖρες ... ἐν χερσίν
+  παλάμαι ...   ἐν παλάμῃσιν
+  αὐχὴν ... ἐν αὐχένι
+  γαστήρ ... ἐν γαστρὶ
+ἐνὶ
+  στῆθος ... ἐνὶ στήθεσσιν [more common than ἐν before this word]
+  φρένες ... ἐνὶ φρεσίν [...]
+phrases
+#
+  suffering pain among the dead
+  νέκυες ... ἐν νεκύεσσι
+     5.397 ... ἐν Πύλῳ ἐν νεκύεσσι βαλὼν ὀδύνῃσιν ἔδωκεν·
+#
+  χρώς ... ἐν χροΐ
+     πάντες δ’ ἐν χροῒ πῆχθεν ἀρηϊθόων αἰζηῶν·
+     Areithous, αἰζηός=vigorous, πήγνυμι=fasten (they were fastened)
+     Already have I discharged eight long-bearded arrows,
+     and they have all been fixed in the bodies of warlike youths;
+     but I cannot strike this raging dog.
